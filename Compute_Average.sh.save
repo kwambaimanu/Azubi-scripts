@@ -1,5 +1,4 @@
-#! /usr/bin/bash
-#https://github.com/kwambaimanu/Computing-average/blob/main/Compute_Average.sh
+https://github.com/kwambaimanu/Computing-average/blob/main/Compute_Average.sh#! /usr/bin/bash
 #shell script to find average of n numbers
   
 echo "Enter Size(N)"
